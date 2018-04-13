@@ -1,0 +1,169 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CryptoSwift",
+        "repositoryURL": "https://github.com/krzyzanowskim/CryptoSwift.git",
+        "state": {
+          "branch": "master",
+          "revision": "e0410a82d15ef4ea9e5dbcd5e3edbb493d26e287",
+          "version": null
+        }
+      },
+      {
+        "package": "MessagePack",
+        "repositoryURL": "https://github.com/superk589/MessagePack.swift.git",
+        "state": {
+          "branch": "master",
+          "revision": "e600495425d1e2848204a9504cef0f9604baaa1e",
+          "version": null
+        }
+      },
+      {
+        "package": "COpenSSL",
+        "repositoryURL": "https://github.com/PerfectlySoft/Perfect-COpenSSL.git",
+        "state": {
+          "branch": null,
+          "revision": "6a2aafd5e233051deeaba27bdfe8c12d9fa88886",
+          "version": "3.1.3"
+        }
+      },
+      {
+        "package": "PerfectCRUD",
+        "repositoryURL": "https://github.com/PerfectlySoft/Perfect-CRUD.git",
+        "state": {
+          "branch": null,
+          "revision": "509f1f9849f49743a2cca2656fc7b5858bff9f2f",
+          "version": "1.0.2"
+        }
+      },
+      {
+        "package": "PerfectCrypto",
+        "repositoryURL": "https://github.com/PerfectlySoft/Perfect-Crypto.git",
+        "state": {
+          "branch": null,
+          "revision": "18c46956149f9550e1b9540dd84536625284ac29",
+          "version": "3.1.1"
+        }
+      },
+      {
+        "package": "PerfectCZlib",
+        "repositoryURL": "https://github.com/PerfectlySoft/Perfect-CZlib-src.git",
+        "state": {
+          "branch": null,
+          "revision": "b63e46909aad937c6434766f8f8c6720d8f3bd05",
+          "version": "0.0.4"
+        }
+      },
+      {
+        "package": "PerfectHTTP",
+        "repositoryURL": "https://github.com/PerfectlySoft/Perfect-HTTP.git",
+        "state": {
+          "branch": null,
+          "revision": "1800d923271679170f9beef030566c7290a2d170",
+          "version": "3.0.12"
+        }
+      },
+      {
+        "package": "PerfectHTTPServer",
+        "repositoryURL": "https://github.com/PerfectlySoft/Perfect-HTTPServer.git",
+        "state": {
+          "branch": null,
+          "revision": "53372d8af2cd1b799886576a55e997b27514247d",
+          "version": "3.0.12"
+        }
+      },
+      {
+        "package": "PerfectNet",
+        "repositoryURL": "https://github.com/PerfectlySoft/Perfect-Net.git",
+        "state": {
+          "branch": null,
+          "revision": "771e32291e070e22b824c8eb2b37b5ea819f7f97",
+          "version": "3.1.1"
+        }
+      },
+      {
+        "package": "PerfectRepeater",
+        "repositoryURL": "https://github.com/PerfectlySoft/Perfect-Repeater.git",
+        "state": {
+          "branch": null,
+          "revision": "c7bba679dae88622d24e47a18977843835e9a748",
+          "version": "1.0.1"
+        }
+      },
+      {
+        "package": "PerfectSQLite",
+        "repositoryURL": "https://github.com/PerfectlySoft/Perfect-SQLite.git",
+        "state": {
+          "branch": null,
+          "revision": "15b147d7fa235baf20409a19903dad5af61d0d1b",
+          "version": "3.1.0"
+        }
+      },
+      {
+        "package": "PerfectCSQLite3",
+        "repositoryURL": "https://github.com/PerfectlySoft/Perfect-sqlite3-support.git",
+        "state": {
+          "branch": null,
+          "revision": "fb806c0fd0fcbf27ababa9c03a00e32c2c46464c",
+          "version": "3.0.0"
+        }
+      },
+      {
+        "package": "PerfectThread",
+        "repositoryURL": "https://github.com/PerfectlySoft/Perfect-Thread.git",
+        "state": {
+          "branch": null,
+          "revision": "d783048201086dc2cdc08627041e5001157db7f3",
+          "version": "3.0.4"
+        }
+      },
+      {
+        "package": "PerfectLib",
+        "repositoryURL": "https://github.com/PerfectlySoft/PerfectLib.git",
+        "state": {
+          "branch": null,
+          "revision": "718432e78c1ce361fe922eea4810130fc72e2191",
+          "version": "3.0.4"
+        }
+      },
+      {
+        "package": "RijndaelSwift",
+        "repositoryURL": "https://github.com/superk589/RijndaelSwift.git",
+        "state": {
+          "branch": "master",
+          "revision": "594a8ecfecbcd70cd5689f930eefb15f15218557",
+          "version": null
+        }
+      },
+      {
+        "package": "SwiftShell",
+        "repositoryURL": "https://github.com/kareman/SwiftShell",
+        "state": {
+          "branch": null,
+          "revision": "b9fd06798993153bc57cde10ee6c75ddc55c2dbd",
+          "version": "4.0.2"
+        }
+      },
+      {
+        "package": "SwiftyJSON",
+        "repositoryURL": "https://github.com/SwiftyJSON/SwiftyJSON.git",
+        "state": {
+          "branch": null,
+          "revision": "de309166a48a9dfc51d5bc4c55c0664d981de311",
+          "version": "4.0.0"
+        }
+      },
+      {
+        "package": "Timepiece",
+        "repositoryURL": "https://github.com/naoty/Timepiece.git",
+        "state": {
+          "branch": null,
+          "revision": "c45fe0c1c29b53446a55f66bcc68323b2d944229",
+          "version": "1.3.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
